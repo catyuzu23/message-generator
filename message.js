@@ -2,4 +2,5 @@
 
 let x = Math.floor(Math.random() * 100);
 let nume=["good","bad"];
-console.log(`The number ${x} is ${nume[Math.floor(Math.random() * 2)]} for you.`);
+let Daniel_Cafelutza=["OZDC","OZDCSC","BDSC","SLC"];
+console.log(`The number ${x} is ${nume[Math.floor(Math.random() * 2)]} for you.${Daniel_Cafelutza[Math.floor(Math.random() * 4)]}!!`);
